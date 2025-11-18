@@ -1,6 +1,8 @@
 # AA1-TUIA-Molina-Romano-Troanes-2
 Repositorio destinado al trabajo practico 2 de la materia Aprendizaje Automático cursado durante el segundo cuatrimestre del año 2025.
 
+Usar python 3.10
+
 1. Instalar con la terminal (si no lo tenes) el paquete para entornos virtuales `pip install virtualenv`
 2. Crear un entorno virtual con `python -m venv ./.venv`
 3. Ejecutar a traves en la consola `source ./.venv/Scripts/activate`
