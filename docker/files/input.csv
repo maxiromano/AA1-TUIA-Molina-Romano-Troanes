@@ -1,0 +1,4 @@
+Date,Location,MinTemp,MaxTemp,Rainfall,Evaporation,Sunshine,WindGustDir,WindGustSpeed,WindDir9am,WindDir3pm,WindSpeed9am,WindSpeed3pm,Humidity9am,Humidity3pm,Pressure9am,Pressure3pm,Cloud9am,Cloud3pm,Temp9am,Temp3pm,RainToday
+2023-11-27,Albury,15.0,30.0,0.0,8.0,11.0,W,30.0,W,WNW,10.0,15.0,40.0,25.0,1018.0,1015.0,1.0,2.0,20.0,28.0,No
+2023-11-28,CoffsHarbour,20.0,24.0,45.0,1.0,0.0,E,85.0,E,E,40.0,50.0,95.0,90.0,1002.0,998.0,8.0,8.0,22.0,21.0,Yes
+2023-11-29,Melbourne,,18.0,2.0,,5.0,SW,40.0,S,SW,20.0,25.0,70.0,65.0,1010.0,1008.0,6.0,5.0,14.0,16.0,No
