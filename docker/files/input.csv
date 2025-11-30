@@ -1,0 +1,6 @@
+Date,Location,MinTemp,MaxTemp,Rainfall,Evaporation,Sunshine,WindGustDir,WindGustSpeed,WindDir9am,WindDir3pm,WindSpeed9am,WindSpeed3pm,Humidity9am,Humidity3pm,Pressure9am,Pressure3pm,Cloud9am,Cloud3pm,Temp9am,Temp3pm,RainToday
+2012-04-22,MountGambier,15.0,18.9,4.2,6.6,8.0,NNW,54.0,NNW,NW,24.0,31.0,73.0,64.0,1005.2,1003.7,4.0,5.0,17.3,17.6,Yes
+2008-03-30,Sydney,13.1,26.8,0.0,4.6,10.9,,,W,WNW,22.0,15.0,61.0,22.0,1013.0,1009.0,0.0,1.0,16.9,25.9,No
+2011-12-10,Melbourne,19.0,29.0,,11.0,5.6,N,59.0,N,N,39.0,22.0,50.0,38.0,1006.5,1003.4,,,24.2,27.2,
+2013-03-27,Richmond,18.1,32.2,0.0,2.1,,NE,30.0,,NE,0.0,17.0,99.0,51.0,1019.2,1014.6,,,20.9,31.6,No
+2010-10-25,Sydney,13.9,19.6,14.0,1.2,5.4,SSW,50.0,SW,S,17.0,22.0,90.0,64.0,,1018.4,7.0,6.0,15.5,19.1,Yes
