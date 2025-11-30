@@ -89,7 +89,7 @@ df_output = pd.DataFrame({
     'Probability': probs                  
 })
 
-df_output['RainTomorrow_Label'] = df_output['RainTomorrow_predicted'].map({1: 'Yes', 0: 'No'})
+df_output['RainTomorrow_Label'] = df_output['RainTomorrow_predicted'].map({1: 'Llueve', 0: 'No llueve'})
 
 # Guardar
 df_output.to_csv(output_path, index=False)
